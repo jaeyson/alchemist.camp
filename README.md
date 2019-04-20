@@ -1,2 +1,5 @@
 # alchemist.camp
-progress from alchemist.camp episodes
+
+## Word Count
+
+### progress from alchemist.camp episodes
